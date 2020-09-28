@@ -199,4 +199,17 @@ div.summary{
 #zen-resources a{
   border:0px;
 }
+
+p:actice{
+  border:5px solid brown;
+}
+p{
+  visibility: visible;
+}
+p:nth-chind(3n+1){
+  //ahhhh
+}
+
+
 /**	05	Media  **/
+
